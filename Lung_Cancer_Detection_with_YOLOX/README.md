@@ -12,7 +12,7 @@ files modified for this project are:
 [coco_classes.py](../Lung_Cancer_Detection_with_YOLOX/YOLOX/yolox/data/datasets/coco_classes.py)
 
 Using our own data augmentations and preprocessing tools
-[data augmentations](./data_preprocess)
+[data augmentations](../data_preprocess)
 
 If you use YOLOX in your research, please cite our work by using the following BibTeX entry:
 
