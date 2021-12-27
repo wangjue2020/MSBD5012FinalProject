@@ -8,8 +8,8 @@
 The detail for yolox, please refers to the https://github.com/Megvii-BaseDetection/YOLOX
 
 files modified for this project are:
-[cancer.py](./Lung_Cancer_Detection_with_YOLOX/YOLOX/exps/cancer.py)
-[coco_classes.py](./Lung_Cancer_Detection_with_YOLOX/YOLOX/yolox/data/datasets/coco_classes.py)
+[cancer.py](../Lung_Cancer_Detection_with_YOLOX/YOLOX/exps/cancer.py)
+[coco_classes.py](../Lung_Cancer_Detection_with_YOLOX/YOLOX/yolox/data/datasets/coco_classes.py)
 
 Using our own data augmentations and preprocessing tools
 [data augmentations](./data_preprocess)
