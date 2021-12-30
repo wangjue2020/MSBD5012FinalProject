@@ -16,7 +16,7 @@ files modified for this project are:
 Using our own data augmentations and preprocessing tools
 [data augmentations](../data_preprocess)
 
-If you use YOLOX in your research, please cite our work by using the following BibTeX entry:
+If you use YOLOX in your research, please cite yolox work by using the following BibTeX entry:
 
 ```latex
  @article{yolox2021,
